@@ -1,9 +1,10 @@
 import React from "react";
+import ArticleList from "./ArticleList";
 
 function NewsFeed() {
   return(
     <div>
-      <h1>NewsFeed Works!</h1>
+      <ArticleList />
     </div>
   );
 }
