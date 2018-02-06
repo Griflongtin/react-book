@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 function Tweet() {
   return (
@@ -7,4 +7,4 @@ function Tweet() {
   );
 }
 
-export default Tweet
+export default Tweet;

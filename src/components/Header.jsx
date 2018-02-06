@@ -1,7 +1,7 @@
-import React from "react";
-import Navigation from "./Navigation";
-import Search from "./Search";
-import Tweet from "./Tweet";
+import React from 'react';
+import Navigation from './Navigation';
+import Search from './Search';
+import Tweet from './Tweet';
 
 function Header() {
   return(
@@ -13,4 +13,4 @@ function Header() {
   );
 }
 
-export default Header
+export default Header;
